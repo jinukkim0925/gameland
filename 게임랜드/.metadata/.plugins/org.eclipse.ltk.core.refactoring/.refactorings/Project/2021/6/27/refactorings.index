@@ -1,0 +1,18 @@
+1624762352055	Delete elements
+1624762424493	Delete element
+1624762565089	Rename type 'main'
+1624763013101	Delete element
+1624763087911	Rename package 'form'
+1624763108739	Move compilation units
+1624763148953	Rename package 'game'
+1624763176542	Rename package 'base'
+1624763201891	Rename package 'bounceball'
+1624763207997	Rename package 'pacman'
+1624763244443	Rename package 'Setting'
+1624871491239	Rename resource 'bounce_balllogo.png'
+1624871497536	Rename resource 'pac_manlogo.png'
+1624871503929	Rename resource 'snakelogo.png'
+1624872143290	Rename type 'bounceball'
+1624872532400	Copy compilation unit
+1624872558811	Rename type 'bounce_ball_resetdata'
+1624872572748	Copy compilation unit
