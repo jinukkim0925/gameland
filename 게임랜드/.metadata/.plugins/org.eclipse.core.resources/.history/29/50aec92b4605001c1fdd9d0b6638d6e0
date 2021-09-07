@@ -17,7 +17,6 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextPane;
-import javax.swing.WindowConstants;
 import javax.swing.border.LineBorder;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.SimpleAttributeSet;
@@ -41,14 +40,13 @@ public class main_gameland extends aframe {
 	public main_gameland() {
 		// TODO Auto-generated constructor stub
 		fs("게임 랜드");
-		setDefaultCloseOperation(WindowConstants.DO_NOTHING_ON_CLOSE);
-		setResizable(false);
+
 		this.addWindowListener(new WindowAdapter() {
 			@Override
 			public void windowClosing(WindowEvent e) {
 				// TODO Auto-generated method stub
 				super.windowClosing(e);
-//				System.exit(0);
+				System.exit(0);
 			}
 		});
 
